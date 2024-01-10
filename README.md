@@ -15,12 +15,13 @@ The project's code is available in the file "project_code.py" in the submission 
 3.2.2 Function Calls
 Key functions include:
 
-num_of_customers(): Generates new customer numbers.
-generate_rating_data(): Creates random customer ratings.
-generate_delivery_data(): Generates random delivery times.
-generate_order_value(): Produces random order values.
-retention_compute(): Computes retention rates using fuzzy logic.
-main_loop(): Integrates all functions for data generation and retention rate calculation.
+- num_of_customers(): Generates new customer numbers.
+- generate_rating_data(): Creates random customer ratings.
+- generate_delivery_data(): Generates random delivery times.
+- generate_order_value(): Produces random order values.
+- retention_compute(): Computes retention rates using fuzzy logic.
+- main_loop(): Integrates all functions for data generation and retention rate calculation.
+
 3.2.3 Code Flow
 The code processes customer data, applies the retention algorithm, and calculates customer numbers for subsequent periods.
 
